@@ -16,4 +16,6 @@ mobile/flutter_*.log
 mobile/*.iml
 .idea/
 *.local.json
+mobile/
+
 
